@@ -15,8 +15,8 @@
 | Họ và tên | Mã số sinh viên | Vai trò / Nhiệm vụ |
 | :--- | :---: | :--- |
 | **Trọng Vỹ** *(Trưởng nhóm)* | `B2404890` | Phát triển hệ thống, Quản lý Git/GitHub |
-| **Thành viên 2** | `Mã số SV` | Thiết kế cơ sở dữ liệu, Lập trình chức năng |
-| **Thành viên 3** | `Mã số SV` | Thiết kế giao diện, Kiểm thử phần mềm |
+| **Minh Huy** | `B2404859` | Thiết kế cơ sở dữ liệu, Lập trình chức năng |
+| **Hữu Thiện** | `B2404879` | Thiết kế giao diện, Kiểm thử phần mềm |
 
 ---
 
@@ -26,7 +26,7 @@ Kho lưu trữ này chứa mã nguồn và tài liệu báo cáo cho bài tập 
 ---
 
 ## 🛠️ Công nghệ sử dụng
-* **Ngôn ngữ lập trình:** PHP, JavaScript, HTML5, CSS3
+* **Ngôn ngữ lập trình:** PHP, HTML5,
 * **Cơ sở dữ liệu:** MySQL
 * **Công cụ hỗ trợ:** Visual Studio Code, XAMPP, Git / GitHub
 
